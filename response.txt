@@ -1,0 +1,7 @@
+It looks like your question **what is compiler?** is **not related to the course content in these video chunks**. The provided subtitles are about **classification problems**, **decision boundaries**, **entropy / information gain**, and **decision trees with scikit-learn**nothing about compilers or programming-language translation.
+
+So, based on what I have here, I **cant point you to a specific place in these videos that explains compiler.** If you want, I can:
+1) Answer what is a compiler? in general terms (not tied to these course videos), **or**
+2) If you upload/share the correct lecture/subtitle chunks that cover compilers, I can then guide you to the exact video and timestamps.
+
+Which option do you prefer?
